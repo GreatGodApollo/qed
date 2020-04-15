@@ -4,10 +4,12 @@
 A quick and easy way to retrieve data from EDDB
 
 ## Built With
-> Used technologies here
+- [TornadoFX](https://tornadofx.io/)
+- [OkHttp](https://square.github.io/okhttp/)
+
 
 ## Usage
-> How to use this software
+No instructions are currently included for running QED.
 
 ## Licensing
 
